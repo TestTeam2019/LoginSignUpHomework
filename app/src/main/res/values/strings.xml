@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginSignUpHomework</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TextName">User Name</string>
+    <string name="textPassword">Password</string>
+    <string name="buttonLogin">LOGIN</string>
+    <string name="buttonRegister">REGISTER</string>
+    <string name="textNameRegister">Register</string>
+</resources>

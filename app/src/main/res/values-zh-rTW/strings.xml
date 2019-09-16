@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginSignUpHomework</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TextName">帳號</string>
+    <string name="textPassword">密碼</string>
+    <string name="buttonLogin">登入</string>
+    <string name="buttonRegister">註冊</string>
+    <string name="textNameRegister">註冊</string>
+</resources>
